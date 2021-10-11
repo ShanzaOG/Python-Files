@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd66fc66-aa17-4a3f-aa61-2b020d93c03e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aWS2Msry0rONRAm7Yeo36Xzsp0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Gemini" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Backtracking" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SDK" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\hp\Desktop\OGUDE\PycharmProjects\SDK\Backtracking.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Backtracking" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd66fc66-aa17-4a3f-aa61-2b020d93c03e" name="Default Changelist" comment="" />
+      <created>1586849648399</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586849648399</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="385" y="-905" key="FileChooserDialogImpl" timestamp="1586953526905">
+      <screen x="-135" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="385" y="-905" key="FileChooserDialogImpl/0.0.1600.900/-135.-1080.1920.1080@-135.-1080.1920.1080" timestamp="1586953526905" />
+    <state width="1627" height="525" key="GridCell.Tab.0.bottom" timestamp="1586852458240">
+      <screen x="-135" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1627" height="525" key="GridCell.Tab.0.bottom/0.0.1600.900/-135.-1080.1920.1080@-135.-1080.1920.1080" timestamp="1586852458240" />
+    <state width="1627" height="525" key="GridCell.Tab.0.center" timestamp="1586852458240">
+      <screen x="-135" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1627" height="525" key="GridCell.Tab.0.center/0.0.1600.900/-135.-1080.1920.1080@-135.-1080.1920.1080" timestamp="1586852458240" />
+    <state width="1627" height="525" key="GridCell.Tab.0.left" timestamp="1586852458240">
+      <screen x="-135" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1627" height="525" key="GridCell.Tab.0.left/0.0.1600.900/-135.-1080.1920.1080@-135.-1080.1920.1080" timestamp="1586852458240" />
+    <state width="1627" height="525" key="GridCell.Tab.0.right" timestamp="1586852458240">
+      <screen x="-135" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1627" height="525" key="GridCell.Tab.0.right/0.0.1600.900/-135.-1080.1920.1080@-135.-1080.1920.1080" timestamp="1586852458240" />
+    <state x="244" y="-806" key="com.intellij.ide.util.TipDialog" timestamp="1586946063762">
+      <screen x="-135" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="244" y="-806" key="com.intellij.ide.util.TipDialog/0.0.1600.900/-135.-1080.1920.1080@-135.-1080.1920.1080" timestamp="1586946063762" />
+  </component>
+</project>
